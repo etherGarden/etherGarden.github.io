@@ -1,0 +1,26 @@
+# Site settings
+title: Ξther.GardΞn
+email: 0x00@ether.garden
+url: http://ether.garden/
+description: "Sustainable Blockchain Projects"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: http://ether.garden/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+  # - title: github
+  #   url: https://github.com/HakLand/
+  # - title: twitter
+  #   url: https://twitter.com/AKL_Hackspace/
+  # - title: facebook
+  #   url: https://facebook.com/AuckHackspace/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
